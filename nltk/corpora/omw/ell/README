@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:712b981dc0d50c32b5ccba23a81f7c00e176e62de6b2b5e295163dcbcaef9902
-size 263
+Data from github:
+
+wget https://raw.githubusercontent.com/okfngr/wordnet/master/wngre2.xml
+
+URL: https://github.com/okfngr/wordnet
+LICENSE: apache
+
+Note: had to change 'b' to 'r' for adverbs
+
+
+Losing all the BILI entries; some synsets not recognized (see log)
+
+
+

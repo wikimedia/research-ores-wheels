@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:962820f8e2a4a0a5e12edeab11bf093bfdc57f573f57d2a9b4baebcc64803395
-size 225
+Swedish wordnet from wordnet-SALDO:
+
+http://spraakbanken.gu.se/eng/resource/wordnet-saldo
+
+Converted using the script from Jon MacRae.
+
+I hand edited  wn-data-swe.tab to change '-s' to '-a'. (FCB)
+
+Todo: will automate things

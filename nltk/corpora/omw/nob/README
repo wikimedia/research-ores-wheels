@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f5fc707c1ef8ef4c3f5ac52ac6cbc4664e1dc56981a3ad85744d5480548996f
-size 354
+This directory contains two wordnets for Norwegian Bokmal and Nynorsk.
+
+The main wordnet has a different structure from the Princeton wordnet,
+but roughly 5,000 synsets (the core synsets) have been mapped to PWN
+in cooperation with the Danish wordnet.   
+
+Thanks to Lars Nygaard for giving us access to these files and helping
+us clean them up a little.

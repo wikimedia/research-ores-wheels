@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53bcc2d22048a88a176f3c1588851358175907987191c22dc29970354d73211f
-size 504
+
+The BulTreeBank WordNet (BTB-WN)
+=================================
+
+Copyright (c) 2014, 2015 BulTreeBank Group
+
+Contacts:
+Kiril Simov (kivs@bultreebank.org)
+Petya Osenova (petya@bultreebank.org)
+
+Licence
+-------
+
+The BulTreeBank WordNet (BTB-WN) is distributed under the following
+licence: CC BY 3.0
+
+For informal information please see here:
+http://creativecommons.org/licenses/by/3.0/
+For formal representation please see here:
+http://creativecommons.org/licenses/by/3.0/legalcode

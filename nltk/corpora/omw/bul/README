@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b384c4739927e94ac8f14e7051155435c1b6d03ff345483c80e9dacff6b3ea9f
-size 290
+New free Bulgarian wordnet,
+
+Received from Kiril 2014-07-30
+
+First line added by hand:
+URL: 	http://www.bultreebank.org/
+License:	CC BY 3.0
+
+Citation: http://www.lrec-conf.org/proceedings/lrec2010/summaries/848.html
+
+python bin/add-wn.py wns/bul/wn-data-bul.tab  bul btb-wn www/wn-multi.db

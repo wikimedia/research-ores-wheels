@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:707615d417e45b2c2813a6af03725c5722c785bf68e1cf13f4b095f70f16e729
-size 625
+SentiWordNet
+http://sentiwordnet.isti.cnr.it/
+
+SentiWordNet is a lexical resource for opinion mining. SentiWordNet
+assigns to each synset of WordNet three sentiment scores: positivity,
+negativity, objectivity.
+
+Stefano Baccianella, Andrea Esuli, and Fabrizio Sebastiani (2010),
+SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis
+and Opinion Mining, Proceedings of the Seventh International
+Conference on Language Resources and Evaluation (LREC).
+http://nmis.isti.cnr.it/sebastiani/Publications/LREC10.pdf
+
+SentiWordNet is distributed under the Creative Commons Attribution
+ShareAlike 3.0 Unported license.
