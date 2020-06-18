@@ -85,7 +85,7 @@ def run(dry_run):
 
         for package_name, wheel_paths in wheels.items():
             if len(wheel_paths) > 1:
-                logger.warn(
+                logger.warning(
                     "Multiple wheels for the same package {0}: {1}"
                     .format(package_name, wheel_paths))
 
